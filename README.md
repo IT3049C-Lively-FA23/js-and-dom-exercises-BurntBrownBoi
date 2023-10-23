@@ -14,9 +14,13 @@ Instructions to this assignment can be found [here](https://reedws.github.io/IT3
 
 ## Self-Evaluation: 
 (You may base this on the number of exercises you were able to complete)
-how many points out of 20 do you deserve on this assignment:
+how many points out of 20 do you deserve on this assignment: 
+
+Less than 20 for being late as hell but to be fair, I was having issues with my windows install that I initally thought went away but came back and messed everything up. I'll be catching up on assignments faster that you can say Peter Griffin
 
 ## Self-Reflection:
 <!-- What did you learn that you found interesting -->
+The arr.reduce function was new to me and I actually implemented it in my roblox shooter game for some array I was stuck on. I just translated it to Lua so it helped lol
 
 ### How long it took you to finish this?
+about an hour or two
