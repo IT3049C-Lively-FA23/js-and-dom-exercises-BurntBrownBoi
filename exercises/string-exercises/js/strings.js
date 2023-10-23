@@ -18,7 +18,7 @@ class StringFunctions {
      */
     reverse(input) {
       return input.split('').reverse().join('');
-    }
+    }    
     /**
      * Returns an array of the words in a string
      * @param {string} input - the string input to be processed
@@ -27,7 +27,6 @@ class StringFunctions {
      * words('hello world') // ['hello', 'world']
      */
     split(input) {
-      console.log("Input:", input);
-      return input.split(''); // return an array of words
-    }
+      return input.split(' ');
+    }    
 }

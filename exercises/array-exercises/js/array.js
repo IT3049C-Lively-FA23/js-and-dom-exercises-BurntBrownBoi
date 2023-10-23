@@ -20,7 +20,7 @@ class ArrayFunctions {
    */
   sum(arr) {
     // Hint: use the reduce method
-    return arr.redu((accumulator, current) => accumulator + current, 0);
+    return arr.reduce((accumulator, current) => accumulator + current, 0);
   }
 
   /**
