@@ -24,7 +24,7 @@ class ArrayFunctions {
   }
 
   /**
-   * Filter: Should filter out all instances of a value from an array
+   * Filter: Should filter out all instances of a value from an array THIS SHOULD BE FIXED
    * Example: filtering 2 out of [1,2,3,5,6,2,4,2] should return [1,3,5,6,4]
    * @param {array} arr - the array to be filtered
    * @param {*} item  - the item to be filtered out
